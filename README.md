@@ -68,5 +68,9 @@ Known Issues/Limitations
 - Answer replacement styling bug, the styling condition stays in the hover/drag over
 
 
-## Link to Website
+## Important Links
+Website:
 https://ssg-git-master-kcurrier1.vercel.app
+
+Project presentation:
+https://ssg-git-master-kcurrier1.vercel.app/cat
